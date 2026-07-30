@@ -65,7 +65,6 @@ Launch the development server:
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
 ### 4. Setting up Freighter for Testnet
 1. Open the **Freighter Wallet extension**.
@@ -76,11 +75,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ---
 
-Made by BIBEK DAS
-
-
-
- 
 
 ---
 ### Smart Contract Details
